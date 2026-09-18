@@ -1,0 +1,5 @@
+# Ignore compiled Java classes
+*.class
+
+# Ignore the local SQLite database
+finance_engine.db
